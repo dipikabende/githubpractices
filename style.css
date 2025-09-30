@@ -26,3 +26,13 @@ img{
       display: flex;
     text-align: center;
 }
+h2{
+    font-size: 20px;
+    color: darkblue;
+    font-family: sans-serif;
+}
+p{
+    font-size: 15px;
+    color: #666;
+     font-family: sans-serif;
+}
